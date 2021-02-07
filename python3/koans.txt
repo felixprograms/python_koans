@@ -1,0 +1,21 @@
+# Lines starting with # are ignored.
+koans.about_scoring_project.AboutScoringProject
+koans.about_classes.AboutClasses
+koans.about_with_statements.AboutWithStatements
+koans.about_monkey_patching.AboutMonkeyPatching
+koans.about_dice_project.AboutDiceProject
+koans.about_method_bindings.AboutMethodBindings
+koans.about_decorating_with_functions.AboutDecoratingWithFunctions
+koans.about_decorating_with_classes.AboutDecoratingWithClasses
+koans.about_inheritance.AboutInheritance
+koans.about_multiple_inheritance.AboutMultipleInheritance
+koans.about_scope.AboutScope
+koans.about_modules.AboutModules
+koans.about_packages.AboutPackages
+koans.about_class_attributes.AboutClassAttributes
+koans.about_attribute_access.AboutAttributeAccess
+koans.about_deleting_objects.AboutDeletingObjects
+koans.about_proxy_object_project.AboutProxyObjectProject
+koans.about_proxy_object_project.TelevisionTest
+koans.about_extra_credit.AboutExtraCredit
+koans.about_regex.AboutRegex
